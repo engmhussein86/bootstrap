@@ -1,0 +1,21 @@
+.sidebar {
+    /* position: fixed; */
+    
+    background-color: blue; /* Adjust background color as needed */
+    /* height: 100vh;  */
+}
+
+.profile-img{
+    border: 2px solid black;
+    border-radius: 50%;
+    width: fit-content;
+}
+
+.left-margin-auto {
+    margin-left: auto;
+  }
+
+  img{
+    width: 100px;    
+    height:100px;
+  }
